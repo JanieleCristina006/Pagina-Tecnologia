@@ -1,0 +1,130 @@
+body{
+    background-color: #0a0f1d;
+}
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(232, 194, 145);
+}
+
+li{
+    display: inline;
+    word-spacing: 2em;
+    text-transform: uppercase;
+    font-size: 22px;
+
+    
+}
+
+.menu1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.menu{
+    text-decoration: none;
+    color: rgb(235, 241, 245);
+}
+
+div ul li :hover{
+    color:rgb(25, 229, 107);
+}
+
+/*parte do texto da página*/
+
+
+.titulo{
+    color: white;
+    margin-top:4em;
+    margin-left: 3em;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cor{
+    color: rgb(16, 16, 41);
+    background-color:rgb(230, 128, 128);
+}
+
+p{
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:6em;
+    font-size: 17px;
+}
+
+.texto,p{
+    display: inline-block;
+    margin-right:30em;
+}
+
+/*imagem*/
+
+img{
+    display: inline-block;
+    position: absolute;
+    padding-top: 0px;
+    max-width: 40em;
+    max-height: 40em;
+    border-radius: 2em;
+}
+
+.imagem{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    margin-top: 30px;
+
+}
+
+/*botão*/
+
+button{
+    margin-left: 20em;
+    align-items: center;
+    width: 8em;
+    height: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    border-radius: 10px;
+    text-shadow:rgb(131, 131, 140);
+    background-color:rgb(65, 13, 13) ;
+    color: azure;
+    border-color: none;
+    border:none;
+}
+
+button:hover{
+    background-color: rgb(6, 40, 8);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
