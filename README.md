@@ -1,2 +1,2 @@
-# pagina-tecnologia
- Pagina simples
+# Página Tecnologia
+ Pagina simples (HTML,CSS)
